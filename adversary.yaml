@@ -1,4 +1,4 @@
-name: adversarylabs/web/nextjs
+name: web/nextjs
 version: 0.0.16
 description: Reviews Next.js configuration for unsafe remote content, exposed source maps, and framework boundary risks.
 
